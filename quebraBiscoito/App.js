@@ -6,7 +6,7 @@ function App() {
   const [textoFrase, setTextoFrase] = useState('')
 
   const listaFrases = [
-    'Sonhos são caminhos construídos pelo coração.',
+    'Sonhos são caminhos construídos pelo coração...',
     'Impossível é uma palavra que serve só de enfeite no dicionário.',
     'Você é beleza, luz e força.',
     'Dias nublados guardam o sol atrás deles.',
